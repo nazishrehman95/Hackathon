@@ -1,0 +1,36 @@
+
+body {
+    background-image: url("Images/mountains-morning-snow-rock-mountain-landscape\ \(1\).png");
+    width: 100%;
+    background-color: #cccccc;
+   }
+   
+   body {
+    color: white;
+  }
+  
+  h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 05%;
+    padding: 05%;
+  }
+  h6{
+    color: white; display: flex;
+    justify-content: center;
+    margin: 05%;
+    padding: 05%;
+  }
+  #logo{
+   left: ;
+}
+
+nav {
+    float: right;
+}
+#Picture{
+    justify-content: center;
+    margin: 2.5%;
+    padding: 2.5%;
+}
